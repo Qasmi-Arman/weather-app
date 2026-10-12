@@ -1,0 +1,14 @@
+.info{
+    margin: 0 auto;
+}
+.info img{
+    margin-bottom: 1rem;
+}
+.card{
+    width: 300px;
+    
+}
+.info p{
+    color: rgb(255 , 0, 255);
+    font-size: 1.1rem;
+}
